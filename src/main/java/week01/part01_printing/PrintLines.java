@@ -13,5 +13,6 @@ public class PrintLines {
     // Printing is practice.
     public static void printGreeting() {
         // Your code here
+        System.out.println("Hello, Java!\nThis is week 1.\nPrinting is practice.");
     }
 }
