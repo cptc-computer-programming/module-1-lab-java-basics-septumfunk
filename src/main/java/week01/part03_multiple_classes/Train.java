@@ -6,5 +6,6 @@ public class Train {
     // TODO: Print exactly: Train departing.
     public static void depart() {
         // Your code here
+        System.out.println("Train departing.");
     }
 }

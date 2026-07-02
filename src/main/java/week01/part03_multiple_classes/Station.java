@@ -6,5 +6,6 @@ public class Station {
     // TODO: Print exactly: Entered station.
     public static void enter() {
         // Your code here
+        System.out.println("Entered station.");
     }
 }

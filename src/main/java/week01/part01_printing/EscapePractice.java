@@ -11,5 +11,6 @@ public class EscapePractice {
     // \tTabbed line
     public static void printQuoteAndTab() {
         // Your code here
+        System.out.println("Java is fun!\n\tTabbed line"); // debatable 😂
     }
 }

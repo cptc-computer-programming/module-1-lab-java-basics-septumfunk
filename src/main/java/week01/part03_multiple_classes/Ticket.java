@@ -6,5 +6,6 @@ public class Ticket {
     // TODO: Print exactly: Ticket scanned.
     public static void scan() {
         // Your code here
+        System.out.println("Ticket scanned.");
     }
 }

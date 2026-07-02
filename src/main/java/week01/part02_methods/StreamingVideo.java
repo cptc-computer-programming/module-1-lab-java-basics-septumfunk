@@ -22,25 +22,33 @@ public class StreamingVideo {
     // Video is now playing.
     public static void playVideo() {
         // Your code here
+        System.out.println("Play video selected.");
+        loadVideo();
+        startPlayback();
     }
 
     // TODO: Print exactly: Loading video.
     public static void loadVideo() {
         // Your code here
+        System.out.println("Loading video.");
     }
 
     // TODO: Must call showAd() and beginStream()
     public static void startPlayback() {
         // Your code here
+        showAd();
+        beginStream();
     }
 
     // TODO: Print exactly: Showing ad.
     public static void showAd() {
         // Your code here
+        System.out.println("Showing ad.");
     }
 
     // TODO: Print exactly: Video is now playing.
     public static void beginStream() {
         // Your code here
+        System.out.println("Video is now playing.");
     }
 }
